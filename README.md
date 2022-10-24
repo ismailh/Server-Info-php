@@ -1,6 +1,6 @@
 # Service status
 
-<img src="/ismailh/Server-Info-php/blob/main/snap.png?raw=true" alt="snap.png" style="">
+<img src="[/ismailh/Server-Info-php/blob/main/snap.png?raw=true](https://raw.githubusercontent.com/ismailh/Server-Info-php/main/snap.png)" alt="snap.png" style="">
 
 ## How to run?
 just upload any website 
