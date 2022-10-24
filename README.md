@@ -6,5 +6,6 @@
 just upload any website 
 
 ## Requirements
-php - 7.0 - 7.4
-ionCube Loader (Must Need)
+- php - 7.0 - 7.4
+
+- ionCube Loader (Must Need)
