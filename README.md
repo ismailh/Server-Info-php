@@ -1,6 +1,6 @@
 # Service status
 
-![Service status]([[http://url/to/img.png](https://github.com/ismailh/Server-Info-php/blob/main/snap.png)](https://github.com/ismailh/Server-Info-php/blob/main/snap.png))
+![Service status]([[http://url/to/img.png](https://raw.githubusercontent.com/ismailh/Server-Info-php/main/snap.png)])
 
 ## How to run?
 just upload any website 
